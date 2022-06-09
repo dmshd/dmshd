@@ -1,5 +1,4 @@
 ## Hi there 👋 my name is Daniel Muyshond
-## Hi there 👋 my name is Robert S.W. Carroll (robswc)
 
 ### I’m a Developer based in Belgium at the time
 
