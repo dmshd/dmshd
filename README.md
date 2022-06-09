@@ -2,7 +2,7 @@
 
 ### I’m a Developer based in Belgium at the time
 
-### I'm currently [learning Python](https://www.coursera.org/specializations/python) and [writing articles on my blog](https://dmshd.github.io/). I'm currently learning trading, improving my daily with neuroscience based tools, and I pursue a form of milimalism.
+### I'm currently [learning Python](https://www.coursera.org/specializations/python) and [writing articles on my blog](https://dmshd.github.io/). I'm currently learning trading as a hobby, improving my daily with neuroscience based tools, and I pursue a form of milimalism.
 
 
 <!--
