@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 my name is Daniel Muyshond
+## Hi there 👋 my name is Robert S.W. Carroll (robswc)
+
+### I’m a Developer based in Belgium at the time
+
+### I'm currently [learning Python](https://www.coursera.org/specializations/python) and [writing articles on my blog](https://dmshd.github.io/). I'm currently learning trading, improving my daily with neuroscience based tools, and I pursue a form of milimalism.
+
 
 <!--
 **dmshd/dmshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
