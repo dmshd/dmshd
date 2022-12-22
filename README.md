@@ -1,9 +1,8 @@
 ## Hi there 👋 my name is Daniel Muyshond
 
-### I’m a Developer based in Belgium at the time
+### I’m a full stack web developer based in Wallonia, Belgium
 
-### I'm currently [learning Python](https://www.coursera.org/specializations/python) and [writing articles on my blog](https://dmshd.github.io/). I'm currently learning trading as a hobby, improving my daily with neuroscience based tools, and I pursue a form of milimalism.
-
+### I'm currently working on my Python skills.
 
 <!--
 **dmshd/dmshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
