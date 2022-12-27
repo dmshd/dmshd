@@ -2,8 +2,6 @@
 
 ### I’m a full stack web developer based in Wallonia, Belgium
 
-### I'm currently working on my Python skills.
-
 <!--
 **dmshd/dmshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
