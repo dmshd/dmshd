@@ -1,6 +1,8 @@
 ## Hi there 👋 my name is Daniel Muyshond
 
-### I am a proactive and action-oriented individual with experience in software development. I excel at creating clear and concise descriptions of tasks to ensure that everyone on the team has a complete understanding of their responsibilities. I am committed to staying up-to-date with the latest trends and best practices in software development and always seeking new ways to optimize workflows. In my free time, I enjoy spending time on a rowing machine, which helps me stay focused and motivated in all areas of my life. I also demonstrate excellent management of emotions and stress. I have a strong command of a wide range of tools and technologies, including SASS, Jira, low-code Django templates and Python, Ubuntu, Docker, Traceback error handling, Jenkins builds, Git, Mattermost, Kibana, and Selenium. With my strong analytical skills, attention to detail, and passion for innovation, I am confident that I can make a valuable contribution to any team or organization.  Thank you for visiting my profile!
+### App integrator & full stack developer
+
+Hello, my name is Daniel Muyshond, and I'm a Belgian developer, videographer and influencer with a passion for the internet. I'm willing to add value to this world sharing my point of view in forms of web content.
 
 <!--
 **dmshd/dmshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
